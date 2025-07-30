@@ -104,4 +104,10 @@ bool turn_in_place(int degrees)
   return true;
 }
 
+/*
+IMMEDIATE TODO: 
+  - parser method to recieve, parse, and execute given command
+  - main
+*/
+
 
